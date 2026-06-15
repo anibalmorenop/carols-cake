@@ -16,8 +16,8 @@ export default function Header() {
           className="brand-logo"
           src="/img/logo/los-dulcitos-de-caro-logo-boutique.png"
           alt="Los Dulcitos de Caro"
-          width={156}
-          height={58}
+          width={210}
+          height={78}
           priority
         />
       </a>
