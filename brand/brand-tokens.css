@@ -1,0 +1,17 @@
+:root {
+  --caro-chocolate: #6b2f17;
+  --caro-rose: #e86b7d;
+  --caro-cream: #fff2dd;
+  --caro-soft-rose: #f8b8be;
+  --caro-cherry: #d9485f;
+  --caro-sugar-white: #fffdfc;
+  --caro-ink: #3d2017;
+
+  --caro-font-heading: "Playfair Display", "Cormorant Garamond", Georgia, serif;
+  --caro-font-body: "Nunito Sans", "Montserrat", Arial, sans-serif;
+
+  --caro-radius-small: 8px;
+  --caro-radius-medium: 14px;
+  --caro-shadow-soft: 0 10px 30px rgba(107, 47, 23, 0.12);
+}
+
