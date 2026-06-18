@@ -96,8 +96,6 @@ svg {
   width: 180px;
   height: auto;
   object-fit: contain;
-  filter: brightness(0) invert(1) sepia(0.12);
-  opacity: 0.9;
 }
 
 .nav-links {
@@ -221,8 +219,6 @@ svg {
   height: auto;
   margin-bottom: 30px;
   object-fit: contain;
-  filter: brightness(0) invert(1) sepia(0.12);
-  opacity: 0.86;
 }
 
 .hero h1 {
