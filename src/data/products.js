@@ -49,6 +49,11 @@ export const products = [
     image: '/img/publicaciones/brookies-los-dulcitos-de-caro.png',
     description: 'Mezcla deliciosa de brownie y galleta con chocolates de colores.',
   },
+  {
+    name: 'Mini Pie de Maracuya',
+    image: '/img/publicaciones/mini-pie-los-dulcitos-de-caro.png',
+    description: 'Cremoso pie individual de maracuya con merengue y pulpa fresca.',
+  },
 ]
 
 export const whatsappUrl =

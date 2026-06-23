@@ -28,7 +28,7 @@ export default function PromiseBand() {
             <span className="icon-badge">
               <Icon />
             </span>
-            <h2>{item.title}</h2>
+            <h3>{item.title}</h3>
             <p>{item.text}</p>
           </article>
         )
